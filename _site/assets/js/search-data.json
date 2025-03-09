@@ -1,0 +1,51 @@
+{"0": {
+    "doc": "CS4720 Research in Program Analysis",
+    "title": "CS4720 Research in Program Analysis",
+    "content": "Burcu Kulahcioglu Ozkan,   Arie van Deursen . Spring 2025/Q4, TU Delft . ",
+    "url": "/",
+    
+    "relUrl": "/"
+  },"1": {
+    "doc": "CS4720 Research in Program Analysis",
+    "title": "Course description:",
+    "content": "This course provides a comprehensive introduction to the field of software analysis, a critical aspect of software development and maintenance. We will delve into both theoretical foundations and practical applications, learning how to analyze, understand, and improve software systems. This course explores a comprehensive set of techniques for software analysis, including practical formal methods, model checking, static and dynamic analysis, and other key approaches to evaluating and improving software systems. Through hands-on project, you will gain experience understanding and applying these techniques and presenting them using a scientific valid methodology. ",
+    "url": "/#course-description",
+    
+    "relUrl": "/#course-description"
+  },"2": {
+    "doc": "CS4720 Research in Program Analysis",
+    "title": "Study goals:",
+    "content": "At the end of this course, you will be able to: . | Explain different software analysis approaches, such as model checking, static, and dynamic analyses. | Apply the software analysis techniques to sample programs. | Analyze the results of software analysis techniques in terms of their precision and computational performance. | Evaluate the performance of different software analysis techniques and compare their pros and cons. | . ",
+    "url": "/#study-goals",
+    
+    "relUrl": "/#study-goals"
+  },"3": {
+    "doc": "CS4720 Research in Program Analysis",
+    "title": "Course organization",
+    "content": ". | 5 ECTS: You need to devote at least 140 hours of study for this course. | Online meetings: The course consists of 10 2-hour meetings. You are not required, but you are strongly encouraged, to attend. | Assessment: Group Report (weighting 80%), Group Presentation and Participation (weighting 20%) | Teams: The students are responsible to form teams and communicate them to the course TAs. | . ",
+    "url": "/#course-organization",
+    
+    "relUrl": "/#course-organization"
+  },"4": {
+    "doc": "CS4720 Research in Program Analysis",
+    "title": "Course schedule:",
+    "content": "TBA . ",
+    "url": "/#course-schedule",
+    
+    "relUrl": "/#course-schedule"
+  },"5": {
+    "doc": "CS4720 Research in Program Analysis",
+    "title": "Paper presentations:",
+    "content": "TBA . ",
+    "url": "/#paper-presentations",
+    
+    "relUrl": "/#paper-presentations"
+  },"6": {
+    "doc": "CS4720 Research in Program Analysis",
+    "title": "Course projects:",
+    "content": "TBA . ",
+    "url": "/#course-projects",
+    
+    "relUrl": "/#course-projects"
+  }
+}
