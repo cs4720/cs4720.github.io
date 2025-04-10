@@ -75,7 +75,9 @@ You are expected to read all the presented papers and actively participate in th
  
 ## Course projects:
  
-Please find the information about the course projects on the [BrightSpace](https://brightspace.tudelft.nl/d2l/home/680678).
+ TBA
+ 
+<!-- Please find the information about the course projects on the [BrightSpace](https://brightspace.tudelft.nl/d2l/home/680678). -->
 
 
 ## Contact and communication:
