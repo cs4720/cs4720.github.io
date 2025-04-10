@@ -22,30 +22,58 @@
   },"3": {
     "doc": "CS4720 Research in Program Analysis",
     "title": "Course organization",
-    "content": ". | 5 ECTS: You need to devote at least 140 hours of study for this course. | Online meetings: The course consists of 10 2-hour meetings. You are not required, but you are strongly encouraged, to attend. | Assessment: Group Report (weighting 80%), Group Presentation and Participation (weighting 20%) | Teams: The students are responsible to form teams and communicate them to the course TAs. | . ",
+    "content": ". | 5 ECTS: You need to devote at least 140 hours of study for this course. | Online meetings: The course consists of 8 2-hour meetings. | Assessment: Group Report (weighting 80%), Group Presentation and Participation (weighting 20%) | Teams: The students are responsible to form teams and communicate them to the course TAs. | . ",
     "url": "/#course-organization",
     
     "relUrl": "/#course-organization"
   },"4": {
     "doc": "CS4720 Research in Program Analysis",
+    "title": "Teaching assistants",
+    "content": ". | Ege Berkay Gulcan | João Neto | Zahra Zeyedghorban | . ",
+    "url": "/#teaching-assistants",
+    
+    "relUrl": "/#teaching-assistants"
+  },"5": {
+    "doc": "CS4720 Research in Program Analysis",
     "title": "Course schedule:",
-    "content": "TBA . ",
+    "content": "Week-1 April 22 Introduction to Software Analysis . | Lecture: Introduction to the course | . | Lecture: Static vs dynamic software analysis | . Further reading: . | “Static and dynamic analysis: Synergy and duality”, WODA’23 | . | “Extended static checking for Java”, PLDI’02 | . | “Predicate abstraction for software verification”, POPL’02 | . | “Combined static and dynamic automated test generation”, ISSTA’11 | . Actions and assignments (due April 28th): . | Select your team members | . | Select your paper to present (paper selection is first-come-first-served) | . Note: If the teams/papers are not selected by the deadline, they will be assigned randomly. Week-2 April 29 Introduction to Model Checking . | Lecture: Introduction to Model Checking | . | Lecture: Model Checking with TLA+ (hands on, bring your computers) | . Further reading: . | “Formal methods: Practice and experience”, CSUR, 2009 | . | “Using lightweight formal methods to validate a key-value storage node in Amazon S3”, SOSP’21 | . Actions and assignments (due May 6th): . | Check-in with your team | . | Kick-the-tires for your paper presentation | . | Read the research papers of week-3 and prepare for the discussion | . Week-3 May 6 Model Checking of Software . | Lecture: Software Model Checking | . Further reading: . | “Model checking programs”, ASE’03 | . | “Software model checking”, CSUR, 2009 | . | “Software model checking: 20 years and beyond”, Chapter in “Principles of Systems Design”, 2022 | . Paper presentations (model checking): . | “MODIST: Transparent model checking of unmodified distributed systems, NSDI’09” | . | “Validating traces of distributed orograms against TLA+ specifications”, SEFM’24 | . Actions and assignments (due May 12th): . | Select your course project | . | Read the research papers of week-4 and prepare for the discussion | . Note: If a team does not select a project by the deadline, their project will be assigned randomly. Week-4 May 13 From Model Checking to Concurrency Testing . | Lecture: Introduction to Concurrency Testing | . | Lecture: Probabilistic Concurrency Testing | . Further reading: . | “Combining model checking and testing”, Chapter in “Handbook of Model Checking”, 2018 | . | “Finding and reproducing heisenbugs in concurrent programs”, OSDI’08 | . | “A randomized scheduler with probabilistic guarantees of finding bugs”, ASPLOS’10 | . | “Randomized testing of distributed systems with probabilistic guarantees”, OOPSLA’18 | . Paper presentations (concurrency testing): . | “Iterative context bounding for systematic testing of multithreaded programs”, PLDI’07 | . | “Industrial-strength controlled concurrency testing for C# programs with Coyote”, TACAS’23 | . Actions and assignments: . | Kick-the-tires for your project (due May 19) | . | Read the research papers of week-6 and prepare for the discussion (due May 27) | . Week-5 May 20 No lectures Week-6 May 27 Concurrency Testing at JetBrains Guest lecture by Nikita Koval and Bob Brockbernd . | Lecture: Testing Concurrent Data Structures on JVM | . Further reading: . | “Lincheck: A practical framework for testing concurrent data structures on JVM”, CAV’23 | . | “Testing concurrent algorithms on JVM with Lincheck and IntelliJ IDEA”, ISSTA’24 | . Actions and assignments (due June 3rd): . | Read the research papers of week-7 and prepare for the discussion | . Week-7 June 3 Fault-Injection Testing . | Lecture: Introduction to Fault-Tolerant Systems | . | Lecture: Introduction to Fault-Injection Testing | . Further reading: . | “PREFAIL: A programmable tool for multiple-failure injection”, OOPSLA’11 | . | “Lineage-driven fault injection”, SIGMOD’15 | . | “Service-level fault injection testing”, SoCC ‘21 | . | “Randomized testing of Byzantine fault tolerant algorithms”, OOPSLA’23 | . Paper presentations (concurrency testing): . | Presentation: “Selectively uniform concurrency testing”, ASPLOS’25 | . | Presentation: “Learning-based controlled concurrency testing”, OOPSLA’20 | . Actions and assignments (due June 10th): . | Read the research papers of week-7 and prepare for the discussion | . Week-8 June 10 More on Concurrency anf Fault-Injection Testing Paper presentations (concurrency and fault-injection testing): . | “A large-Scale longitudinal study of flaky tests”, OOPSLA’20 | . | “Greybox fuzzing of distributed systems”, CCS’23 | . | “Coverage guided fault injection for cloud systems”, ICSE’23 | . | “Model checking guided testing for distributed systems”, EuroSys’23 | . Actions and assignments (due June 17th): . | In-progress project submissions (in-progress project report + code) | . Week-9 June 17 No lectures Actions and assignments (due June 24th): . | Final project submissions (project report + code) | . Week-10 June 24 Final project presentations (5 min presentation + 5 min Q/A) The schedule is subject to small changes during the term. ",
     "url": "/#course-schedule",
     
     "relUrl": "/#course-schedule"
-  },"5": {
+  },"6": {
+    "doc": "CS4720 Research in Program Analysis",
+    "title": "Lecture notes:",
+    "content": "Please find the lecture notes on the BrightSpace. ",
+    "url": "/#lecture-notes",
+    
+    "relUrl": "/#lecture-notes"
+  },"7": {
+    "doc": "CS4720 Research in Program Analysis",
+    "title": "Assignment submissions:",
+    "content": "Submit your assignments via BrightSpace. ",
+    "url": "/#assignment-submissions",
+    
+    "relUrl": "/#assignment-submissions"
+  },"8": {
     "doc": "CS4720 Research in Program Analysis",
     "title": "Paper presentations:",
-    "content": "TBA . ",
+    "content": "Each presentation will have a 20-minute slot, consisting of a 10-minute presentation followed by a 10-minute Q&amp;A session. Each paper will be presented by a team of two students, where both students are expected to participate in the presentation and the Q/A. The presentations will be graded individually, based on individual performance. You are expected to read all the presented papers and actively participate in the Q&amp;A discussion for each one. ",
     "url": "/#paper-presentations",
     
     "relUrl": "/#paper-presentations"
-  },"6": {
+  },"9": {
     "doc": "CS4720 Research in Program Analysis",
     "title": "Course projects:",
-    "content": "TBA . ",
+    "content": "Please find the information about the course projects on the BrightSpace. ",
     "url": "/#course-projects",
     
     "relUrl": "/#course-projects"
+  },"10": {
+    "doc": "CS4720 Research in Program Analysis",
+    "title": "Contact and communication:",
+    "content": "Assignment announcements and submissions will be made through BrightSpace. You can also enroll in the course Mattermost channel to connect to your peers and faster discussion. ",
+    "url": "/#contact-and-communication",
+    
+    "relUrl": "/#contact-and-communication"
   }
 }
