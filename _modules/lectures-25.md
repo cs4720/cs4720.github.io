@@ -62,7 +62,7 @@ Week-4 May 13
 : [From Model Checking to Concurrency Testing]()  
 	: 
 : - Lecture: Introduction to concurrency testing
-: - Lecture: Probabilistic Concurrency Testing 
+: - Lecture: Probabilistic concurrency testing 
 
 : *Further reading*:
 
@@ -107,8 +107,8 @@ on JVM", CAV'23](https://nikitakoval.org/publications/cav23-lincheck.pdf)
 Week-7 June 3
 : [Fault-Injection Testing]()  
 	: 
-: - Lecture: Introduction to fault-tolerant Systems
-: - Lecture: Introduction to fault-injection Testing
+: - Lecture: Introduction to fault-tolerant systems
+: - Lecture: Introduction to fault-injection testing
 
 : *Further reading*:
 : - ["PREFAIL: A programmable tool for multiple-failure injection", OOPSLA'11](https://dl.acm.org/doi/10.1145/2076021.2048082)
