@@ -34,7 +34,7 @@ At the end of this course, you will be able to:
 ## Course organization
 
 * **5 ECTS:** You need to devote at least 140 hours of study for this course.  
-* **Online meetings:** The course consists of 8 2-hour meetings. 
+* **In-class meetings:** The course consists of 8 2-hour meetings. 
 * **Assessment:** Group Report (weighting 80%), Group Presentation and Participation (weighting 20%)
 * **Teams:** The students are responsible to form teams and communicate them to the course TAs.
 
