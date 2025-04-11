@@ -23,8 +23,8 @@ Week-1 April 22
 Week-2 April 29
 : [Introduction to Model Checking]()
 	: 	
-: - Lecture: Introduction to Model Checking	
-: - Lecture: Model Checking with TLA+ (hands on, bring your computers)
+: - Lecture: Introduction to model checking	
+: - Lecture: Introduction to model checking with TLA+ 
 
 : *Further reading*: 
 : - ["Formal methods: Practice and experience", CSUR, 2009](https://dl.acm.org/doi/abs/10.1145/1592434.1592436)
@@ -39,7 +39,7 @@ Week-2 April 29
 Week-3 May 6
 : [Model Checking of Software]()  
 	: 
-: - Lecture: Software Model Checking
+: - Lecture: Software model checking
 
 : *Further reading*:
 
@@ -61,7 +61,7 @@ Week-3 May 6
 Week-4 May 13
 : [From Model Checking to Concurrency Testing]()  
 	: 
-: - Lecture: Introduction to Concurrency Testing
+: - Lecture: Introduction to concurrency testing
 : - Lecture: Probabilistic Concurrency Testing 
 
 : *Further reading*:
@@ -93,7 +93,7 @@ Week-6 May 27
 : **[Concurrency Testing at JetBrains]()** 
 : Guest lecture by [Nikita Koval](https://nikitakoval.org/) and [Bob Brockbernd](https://nl.linkedin.com/in/bob-brockbernd-6853b61b7, JetBrains)
 	: 
-: - Lecture: Testing Concurrent Data Structures on JVM
+: - Lecture: Testing concurrent data structures on JVM
 
 : *Further reading*:
 : - ["Lincheck: A practical framework
@@ -107,8 +107,8 @@ on JVM", CAV'23](https://nikitakoval.org/publications/cav23-lincheck.pdf)
 Week-7 June 3
 : [Fault-Injection Testing]()  
 	: 
-: - Lecture: Introduction to Fault-Tolerant Systems
-: - Lecture: Introduction to Fault-Injection Testing
+: - Lecture: Introduction to fault-tolerant Systems
+: - Lecture: Introduction to fault-injection Testing
 
 : *Further reading*:
 : - ["PREFAIL: A programmable tool for multiple-failure injection", OOPSLA'11](https://dl.acm.org/doi/10.1145/2076021.2048082)
