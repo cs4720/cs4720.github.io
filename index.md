@@ -43,7 +43,7 @@ At the end of this course, you will be able to:
 
 * [Ege Berkay Gulcan](https://nl.linkedin.com/in/ege-berkay-g%C3%BClcan-98b370109)
 * [João Neto](https://joao.neto.pt/)
-* [Zahra Zeyedghorban](https://nl.linkedin.com/in/zahraseyedghorban)
+* [Zahra Seyedghorban](https://nl.linkedin.com/in/zahraseyedghorban)
 
 
 ## Course schedule:
