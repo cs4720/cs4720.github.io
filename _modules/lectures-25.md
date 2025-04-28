@@ -24,7 +24,7 @@ Week-2 April 29
 : [Introduction to Model Checking]()
 	: 	
 : - Lecture: Introduction to model checking	
-: - Lecture: Introduction to model checking with TLA+ 
+: - Lecture: Introduction to model checking with TLA+ *(hands on, bring your computers)* (Lecturer: Ege Berkay Gulcan)
 
 : *Further reading*: 
 : - ["Formal methods: Practice and experience", CSUR, 2009](https://dl.acm.org/doi/abs/10.1145/1592434.1592436)
