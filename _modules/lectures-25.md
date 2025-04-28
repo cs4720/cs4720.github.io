@@ -50,7 +50,7 @@ Week-3 May 6
 
 : **Paper presentations** (model checking):
 : - ["MODIST: Transparent model checking of unmodified distributed systems, NSDI'09"](https://www.usenix.org/event/nsdi09/tech/full_papers/yang/yang.pdf)
-: - ["Validating traces of distributed orograms against TLA+ specifications", SEFM'24](https://link.springer.com/chapter/10.1007/978-3-031-77382-2_8)
+: - ["Validating traces of distributed programs against TLA+ specifications", SEFM'24](https://link.springer.com/chapter/10.1007/978-3-031-77382-2_8)
 
 : **Actions and assignments** (due May 12th):
 : - Select your course project
