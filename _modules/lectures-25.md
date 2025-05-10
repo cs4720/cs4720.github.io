@@ -62,17 +62,13 @@ Week-4 May 13
 : [From Model Checking to Concurrency Testing]()  
 	: 
 : - Lecture: Introduction to concurrency testing
-: - Lecture: Probabilistic concurrency testing 
 
 : *Further reading*:
 
 : - ["Combining model checking and testing", Chapter in "Handbook of Model Checking", 2018](https://link.springer.com/content/pdf/10.1007/978-3-319-10575-8_19.pdf)
 : - ["Finding and reproducing heisenbugs in concurrent programs", OSDI'08](https://www.usenix.org/legacy/event/osdi08/tech/full_papers/musuvathi/musuvathi.pdf)
-<!-- : - ["CHESS: A Systematic Testing Tool for Concurrent
-Software"]() -->
-: - ["A randomized scheduler with
-probabilistic guarantees of finding bugs", ASPLOS'10](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/asplos277-pct.pdf)
-: - ["Randomized testing of distributed systems with probabilistic guarantees", OOPSLA'18](https://dl.acm.org/doi/10.1145/3276530)
+: - ["CHESS: A Systematic Testing Tool for Concurrent
+Software", MSR-TR-2007](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tr-2007-149.pdf)
 
 : **Paper presentations** (concurrency testing):
 : - ["Iterative context bounding for systematic testing of
@@ -107,13 +103,16 @@ on JVM", CAV'23](https://nikitakoval.org/publications/cav23-lincheck.pdf)
 Week-7 June 3
 : [Fault-Injection Testing]()  
 	: 
-: - Lecture: Introduction to fault-tolerant systems
+: - Lecture: Probabilistic concurrency testing 
 : - Lecture: Introduction to fault-injection testing
 
 : *Further reading*:
+: - ["A randomized scheduler with
+probabilistic guarantees of finding bugs", ASPLOS'10](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/asplos277-pct.pdf)
+: - ["Randomized testing of distributed systems with probabilistic guarantees", OOPSLA'18](https://dl.acm.org/doi/10.1145/3276530)
 : - ["PREFAIL: A programmable tool for multiple-failure injection", OOPSLA'11](https://dl.acm.org/doi/10.1145/2076021.2048082)
-: - ["Lineage-driven fault injection", SIGMOD'15](https://dl.acm.org/doi/10.1145/2723372.2723711)
-: - ["Service-level fault injection testing", SoCC '21](https://dl.acm.org/doi/10.1145/3472883.3487005)
+<!-- : - ["Lineage-driven fault injection", SIGMOD'15](https://dl.acm.org/doi/10.1145/2723372.2723711)  -->
+<!-- : - ["Service-level fault injection testing", SoCC '21](https://dl.acm.org/doi/10.1145/3472883.3487005) -->
 : - ["Randomized testing of Byzantine fault tolerant algorithms", OOPSLA'23](https://dl.acm.org/doi/abs/10.1145/3586053)
 
 : **Paper presentations** (concurrency testing):
