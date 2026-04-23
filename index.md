@@ -42,8 +42,8 @@ At the end of this course, you will be able to:
 ## Teaching assistants
 
 * [Ege Berkay Gulcan](https://eldarfin.github.io/)
-* [Zahra Seyedghorban](https://github.com/vagabondboffinn)
 * [Luan Li](https://github.com/lililuanluan)
+* [Zahra Seyedghorban](https://github.com/vagabondboffinn)
 
 
 ## Course schedule:
@@ -64,12 +64,12 @@ The list of papers and the schedule is subject to small changes during the term.
 
 Each presentation will consist of a presentation followed by a Q&A session. 
 
-Each paper will be presented by a team of two students, where both students are expected to participate in the presentation and the Q/A. The presentations will be graded individually, based on *individual performance*.
+Each paper will be presented by a team of 2-3 students, where all students are expected to participate in the presentation and the Q/A. The presentations will be graded individually, based on *individual performance*.
 
-You are expected to **read all the presented papers** and **actively participate in the Q&A discussions**.
+You are expected to **read all the presented papers**, give **peer-feedback to assigned presentations**, and  **actively participate in the Q&A discussions**.
 
  
- 
+<!--  
 Tentative list of the papers to be presented and discussed:
 : - ["Can LLMs transform natural language intent into formal method postconditions"](https://dl.acm.org/doi/10.1145/3660791), FSE'24  
 : - ["OSVBENCH: Benchmarking LLMs on specification generation tasks for operating system verification"](https://arxiv.org/pdf/2504.20964v2), AAAI'26   
@@ -88,7 +88,7 @@ Tentative list of the papers to be presented and discussed:
 : - ["Runtime protocol refinement checking for distributed protocol implementations"](https://www.usenix.org/conference/nsdi25/presentation/ding), NSDI'25
 : - ["AgentSpec: Customizable runtime enforcement for safe and reliable LLM agents"](https://arxiv.org/abs/2503.18666), ICSE'26     
 : - ["VeriGrey: Greybox Agent Validation"](https://arxiv.org/abs/2603.17639), ArXiv'26
-
+-->
 
 <!-- Generating and assessing formal specifications:-->
 <!--Model checking, automated testing, runtime verification, trace validation: -->    
@@ -96,16 +96,14 @@ Tentative list of the papers to be presented and discussed:
 
 ## Course projects:
  
- TBA
  
- 
-Submit your project assignments via [BrightSpace]().
+Project assignments are announced and submitted at [BrightSpace](https://brightspace.tudelft.nl/d2l/home/774599).
 
 <!-- Please find the information about the course projects on the [BrightSpace](https://brightspace.tudelft.nl/d2l/home/680678). -->
 
 
 ## Contact and communication:
 
-Assignment announcements and submissions will be made through [BrightSpace]().
+Announcements will be made through [BrightSpace](https://brightspace.tudelft.nl/d2l/home/774599).
 
 <!-- You can also enroll in [the course Mattermost channel](https://mattermost.tudelft.nl/signup_user_complete/?id=bq4nuq8hctra7ci7n7smr3145r&md=link&sbr=su) to connect to your peers and faster discussion. -->
